@@ -28,7 +28,7 @@ img {
     box-shadow: 2px 2px 5px 5px gray;
     border-radius: 25px;
     padding: 30px 10px 200px 10px;
-    opacity: 0.6;
+    opacity: 1;
 }
 
 .card:hover {
